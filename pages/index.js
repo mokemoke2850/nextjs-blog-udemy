@@ -31,7 +31,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p className={utilStyle.headingMd}>ぶひぶひの泉です。</p>
+        <p className={utilStyle.headingMd}>ぶひぶひの泉です。From Nextjs</p>
       </section>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
         <h2>🗒エンジニアのブログ</h2>
